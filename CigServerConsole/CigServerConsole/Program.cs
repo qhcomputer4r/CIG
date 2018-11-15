@@ -10,7 +10,7 @@ namespace CigServerConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ahihi");
+            Console.WriteLine("ahhoho");
             Console.Read();
         }
     }
